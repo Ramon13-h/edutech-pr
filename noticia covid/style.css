@@ -1,0 +1,15 @@
+.barra {
+    background-color: gray;
+    box-shadow: #4F4F4F 5px 5px 1px;
+}
+.n {
+    background-color: gray;
+    color: black;
+    border: solid black;
+    width: 400;
+    height: 10;
+}
+.rodape {
+    background-color: #0000FF;
+    box-shadow: #191970 5px 5px 1px;
+}
